@@ -1,0 +1,23 @@
+"Database"
+
+ player.Registered()
+ID = by.Random
+ Is.Registered = false
+
+if Is.registered = false,
+then 
+
+" Player.Database "
+
+Gems = 10000
+Coins = 10000
+Blings = 5000
+UnlockedAllSkins = true
+UnlockedAllBrawlers = true
+UnlockedAllHyperCharge = true
+
+ Lobby.Text =
+" CookieBrawl
+     V51
+Support me by donating
+on tag #8YGCGVV8Y."
